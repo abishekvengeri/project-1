@@ -1,0 +1,4 @@
+scapy==2.5.0  # For network packet analysis
+pandas==2.2.3  # For log data processing
+requests==2.32.3  # For fetching C2 threat intel
+matplotlib==3.9.2

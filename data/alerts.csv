@@ -1,0 +1,5 @@
+timestamp,client_ip,domain,alert_type,severity,destination,bytes_transferred
+2025-10-23 10:00:03,192.168.1.100,malicious-c2-domain.com,C2 Domain Match,High,,
+2025-10-23 10:00:04,192.168.1.101,ransomware-site.net,C2 Domain Match,High,,
+2025-10-23 10:00:02,192.168.1.100,,Large File Transfer,Medium,malicious-c2-domain.com,5242880.0
+2025-10-23 10:00:03,192.168.1.101,,Large File Transfer,Medium,ransomware-site.net,10485760.0

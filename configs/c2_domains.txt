@@ -1,0 +1,2 @@
+malicious-c2-domain.com
+ransomware-site.net
